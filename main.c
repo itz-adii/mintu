@@ -5,7 +5,7 @@ int main()
 {
     printf("Hii");
     int a = 10;
-    int b = 20;
-    int c = a + b;
+    printf("Hello");
+    int c = a + 10;
     return 0;
 }
